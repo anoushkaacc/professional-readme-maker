@@ -7,6 +7,9 @@ A step-by-step guide to generating a structured, industry-ready GitHub profile R
 
 ## What You Will End Up With
 
+<img width="418" height="872" alt="image" src="https://github.com/user-attachments/assets/8f6e3764-c845-40d0-a049-568b08db3e96" />
+
+
 A GitHub profile README that:
 - Presents your experience, projects, and tech stack with professional formatting
 - Uses [Shields.io](https://shields.io/) badges for visual structure
